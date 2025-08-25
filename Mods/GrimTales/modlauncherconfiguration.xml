@@ -1,0 +1,22 @@
+<Servers>
+  <ServerGroup Name="JoeSloeMoe HLBU Story Mode">
+    <Server Name="JoeSloeMoe HLBU Story Mode" Logo="https://i.imgur.com/yourlink.jpg">
+      <Description>A collection of JoeSlowMoe mods as a Mod Pack.
+	  
+Features Include:
+- Hybrid Learn By Using progression with a 50/50 leveling split with Perk Skills
+- Grim Tales mid-late game quest line
+  
+Brought to the community by JoeSloeMoe.
+	  </Description>
+        <Version>V2</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord></Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download></Download></Downloads>
+    </Server>
+  </ServerGroup>
+</Servers>
