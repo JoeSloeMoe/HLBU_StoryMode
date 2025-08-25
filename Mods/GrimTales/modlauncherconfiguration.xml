@@ -1,6 +1,6 @@
 <Servers>
   <ServerGroup Name="JoeSloeMoe HLBU Story Mode">
-    <Server Name="JoeSloeMoe HLBU Story Mode" Logo="https://i.imgur.com/yourlink.jpg">
+    <Server Name="JoeSloeMoe HLBU Story Mode" Logo="https://imgur.com/a/hIROITe">
       <Description>A collection of JoeSlowMoe mods as a Mod Pack.
 	  
 Features Include:
@@ -9,14 +9,14 @@ Features Include:
   
 Brought to the community by JoeSloeMoe.
 	  </Description>
-        <Version>V2</Version>
+        <Version>V1</Version>
 		<RSS/>
         <Excludes></Excludes>
         <ReleaseNotes></ReleaseNotes>
         <Discord></Discord>
         <Donate></Donate>
         <DownloadMode>Clone</DownloadMode>
-      <Downloads><Download></Download></Downloads>
+      <Downloads><Download></Download>https://github.com/JoeSloeMoe/HLBU_StoryMode</Downloads>
     </Server>
   </ServerGroup>
 </Servers>
